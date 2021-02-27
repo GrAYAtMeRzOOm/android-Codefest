@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676555814941",
+    "project_id": "quickstart-1601215787381",
+    "storage_bucket": "quickstart-1601215787381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676555814941:android:2bad00052b788bff60eef4",
+        "android_client_info": {
+          "package_name": "com.gray.codefest_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676555814941-oo9sajmgi6ij9pnoun64l3eoeju4koa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOqrRv7LykxiJg9kOEFdo7L7jYUiJmE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676555814941-oo9sajmgi6ij9pnoun64l3eoeju4koa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
